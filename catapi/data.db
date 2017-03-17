@@ -1,0 +1,23 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Note": 1,
+    "cat": 3
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Note": {},
+    "cat": {
+      "1": "{\"name\":\"Sinatra\",\"age\":8,\"ssn\":\"111-11-1111\",\"id\":1}",
+      "2": "{\"name\":\"Luna\",\"age\":3,\"ssn\":\"222-22-2222\",\"id\":2}"
+    }
+  }
+}
